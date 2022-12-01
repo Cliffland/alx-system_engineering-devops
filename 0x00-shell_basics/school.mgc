@@ -1,2 +1,10 @@
 #!/bin/bash
-file -C -m school.mgc
+0 string SCHOOL School data
+
+<<<<<<< HEAD
+
+=======
+
+!:mime School
+
+>>>>>>> c882e158ea0b7758d36fd3b15bd3ed684b5f8c4d
